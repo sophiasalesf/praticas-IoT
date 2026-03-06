@@ -6,4 +6,4 @@
 - [Código 1 - fase 2] (https://wokwi.com/projects/457697194995901441)
 - [Código 2 - fase 3] (https://wokwi.com/projects/457697510102453249)
 - [Código 2 - fase 4] (https://wokwi.com/projects/457664275775631361)
-- [Código 2 - interrupções] ()
+- [Código 2 - interrupções] (https://wokwi.com/projects/457697743498718209)
